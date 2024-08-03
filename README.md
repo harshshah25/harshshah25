@@ -6,7 +6,7 @@
 
 - Full-stack developer with a focus on ML-powered applications. 
 - Always learning, always coding.
-- Persuing BTech in Artificial Intelligence & Machine Learning.
+- Pursuing BTech in Artificial Intelligence & Machine Learning.
 
 ---
 
