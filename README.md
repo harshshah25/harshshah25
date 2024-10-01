@@ -4,7 +4,7 @@
 
 **`Software Developer`**
 
-- Full-stack developer with a focus on ML-powered applications. 
+- Passionate developer with a focus on ML-powered applications. 
 - Always learning, always coding.
 - Pursuing BTech in Artificial Intelligence & Machine Learning.
 
