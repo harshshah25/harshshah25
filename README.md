@@ -5,7 +5,7 @@
 **`Software Developer`**
 
 - Passionate developer with a focus on ML-powered applications. 
-- Always learning, always coding.
+- Excited to learn new things everyday.
 - Pursuing BTech in Artificial Intelligence & Machine Learning.
 
 ---
