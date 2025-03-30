@@ -46,15 +46,14 @@
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshshah25&show_icons=true&theme=gruvbox)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshshah25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-
+<!--
 ---
    <p align="left">
    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=harshshah25&label=Profile%20Views&color=3&icon=0&pretty=true" />
   </a>
    </p>
-
-
+--!>
 
 
 
