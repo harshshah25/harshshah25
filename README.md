@@ -6,7 +6,7 @@
 
 - Passionate developer with a focus on ML-powered applications. 
 - Excited to learn new things everyday.
-- Pursuing BTech in Artificial Intelligence & Machine Learning.
+- BTech in Artificial Intelligence & Machine Learning.
 
 ---
 
